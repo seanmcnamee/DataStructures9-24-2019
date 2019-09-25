@@ -12,9 +12,17 @@
         },
         {
             "type": "java",
-            "name": "Debug (Launch)-arraylist1",
+            "name": "Debug (Launch)-arraylist1<ArrayList and LinkedList>",
             "request": "launch",
-            "mainClass": "arraylist1"
+            "mainClass": "arraylist1",
+            "projectName": "ArrayList and LinkedList"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-arraylist2<ArrayList and LinkedList>",
+            "request": "launch",
+            "mainClass": "arraylist2",
+            "projectName": "ArrayList and LinkedList"
         }
     ]
 }
